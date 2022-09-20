@@ -10,9 +10,9 @@ The app was made using:
 
 # How to install
 ## 1. Clone and install dependencies:
-git clone https://github.com/VladCSoft/Wishlist-App.git
 ``` 
 # Clone the repo
+git clone https://github.com/VladCSoft/Wishlist-App.git
 
 # Navigate to cloned folder and install dependencies
 $ npm install
